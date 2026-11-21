@@ -1,3 +1,8 @@
+
+[![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/tieru9236-create/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/tieru9236-create/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
 # github-core-clone-01 starter
 
 A runnable starting point for [the contest](https://make.fun/bounty/github-core-clone-01): the entry's
